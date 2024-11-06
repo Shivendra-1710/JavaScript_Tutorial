@@ -10,7 +10,7 @@ account_city = "Bijnor"
 account_email = "Rajput83514@gmail.account"
 account_pass = "121212"
 account_city = "Noida"
-let account_state;      // if we define a variable in js with no value in it then it shows "undefined"
+let account_state;      // if we define a variable in js when the value is not define then it shows "undefined"
 
 
 console.log(account_id);
